@@ -1,0 +1,7 @@
+waveunet:
+  enc_num_layers: 12
+  dec_num_layers: 12
+  enc_filter_size: 15
+  dec_filter_size: 5
+  input_channel: 2
+  nfilters: 24
